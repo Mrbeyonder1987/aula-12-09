@@ -1,0 +1,30 @@
+1)Monolítica: Tudo em um só pacote; fácil, mas difícil de montar e manter.
+Microsserviços:flexibilidade e resiliência, mas maior complexidade de gerenciamento.
+Camadas: Divisão de tarefas; torna mais fácil a manutenção e o teste, mas pode afetar a performance eflexibilidade e resiliência, mas maior complexidade de gerenciamento. a flexibilidade.
+
+2)Monolítica: 
+V)Simples, curto e objetivo.
+D)Falta de flexibilidade para incorporar novas funcionalidades.
+Pequenos serviços:
+Microsserviços:
+V)Independência entre serviços, bastante aberto para novas funcionalidades.
+D)Extremamente complexo e minucioso.
+Camadas: 
+V)A organização é excelente, está disponível para manutenção e avaliação.
+D)Escalabilidade restrita.
+
+3)Monolítica: é difícil de ser eficiente, geralmente requer escala vertical, o que pode resultar em ineficiência. Melhor para pequenas aplicações e grupos, mas limitado em tamanho e na adição de funcionalidades.
+
+
+
+Microsserviços: Oferece a melhor escalabilidade, permitindo que serviços individuais sejam selecionados de acordo com a necessidade, mas aumenta a complexidade na gestão e comunicação entre serviços. Ideal para aplicações grandes e complexas que exigem alta escalabilidade e a capacidade de iterar rapidamente sobre novas funcionalidades, mas requerem uma gestão atenta da complexidade.
+
+
+
+Camadas: É possível ter uma escalabilidade modular, porém pode haver uma complexidade na interdependência das camadas. Um compromisso entre as duas abordagens pode ser menos efetivo em termos de escalabilidade do que microsserviços quando a aplicação cresce.
+
+4)Monolítica: Bom para iniciar de forma rápida, mas difícil de escalar e manter à medida que cresce.
+Oferece flexibilidade e escalabilidade, mas acrescenta complexidade na administração e comunicação.
+A separação de preocupações e a reutilização é importante, porém pode apresentar problemas de desempenho e requer um teste mais integrado entre as camadas.
+
+5)Prefiro a Arquitetura em Camadas por sua simplicidade e organização, permitindo que a aplicação cresça de maneira ordenada e que as diversas funcionalidades sejam mantidas e expandidas separadamente. Ademais, o formato em camadas torna mais fácil a incorporação de novas funcionalidades, tais como conexão com serviços externos ou adição de autenticação.
